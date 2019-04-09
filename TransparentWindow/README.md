@@ -1,11 +1,14 @@
 # TransparentWindow [![GitHub](https://img.shields.io/github/license/usaginya/NotepadPlusPlusPlugins.svg?style=flat-square)](https://github.com/usaginya/NotepadPlusPlusPlugins/blob/master/TransparentWindow/LICENSE) [![Nuget](https://img.shields.io/nuget/v/DllExport.svg?label=DllExport&style=flat-square)](https://github.com/3F/DllExport) [![Badge](https://img.shields.io/badge/.net%20framework-3.5-865FC5.svg?style=flat-square)](#)
 Notepad++ plugin
+  
 Notepad++ 插件
 
 ## Features 特性
 * Notepad++ window set to transparent
+  
   设置 Notepad++ 的窗口变成透明的
 * You can set the transparency of the window
+  
   你可以设置窗口的透明度
 
 ## Compatibility 兼容性
