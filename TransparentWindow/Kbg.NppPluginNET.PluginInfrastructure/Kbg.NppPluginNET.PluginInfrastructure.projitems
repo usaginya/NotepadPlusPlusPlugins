@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>7657752c-6f32-4d47-9ba6-8937b865340f</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>Kbg.NppPluginNET.PluginInfrastructure</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)ClikeStringArray.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Docking_h.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GatewayDomain.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)IScintillaGateway.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MenuCmdID_h.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Msgs_h.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)NotepadPPGateway.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)NppPluginNETBase.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)NppPluginNETHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Preference_h.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Resource_h.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ScintillaGateway.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Scintilla_iface.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)UnmanagedExports.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Win32.cs" />
+  </ItemGroup>
+</Project>
