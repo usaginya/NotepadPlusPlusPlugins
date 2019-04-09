@@ -13,7 +13,8 @@ Notepad++ 插件
 
 ## Compatibility 兼容性
 This plugin requires at least
-这个插件必须的东西
+  
+这个插件必须的环境
 * Notepad++ 32-bit/64-bit
 * Windows
 * .NET Framework 3.5 or above
