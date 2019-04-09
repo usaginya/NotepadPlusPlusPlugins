@@ -1,0 +1,2 @@
+# NotepadPlusPlusPlugins
+- Notepad++ plugin development
