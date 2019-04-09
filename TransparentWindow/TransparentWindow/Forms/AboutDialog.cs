@@ -13,7 +13,7 @@ namespace TransparentWindow.Forms
                     version = Assembly.GetExecutingAssembly().GetName().Version.ToString();
 
         private const string creator = "YIU",
-        github = "https://github.com/usaginya/NotepadPlusPlusPlugin/TransparentWindow";
+        github = "https://github.com/usaginya/NotepadPlusPlusPlugins/tree/master/TransparentWindow";
 
         public AboutDialog()
         {
