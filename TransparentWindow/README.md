@@ -20,6 +20,6 @@ This plugin requires at least
 * .NET Framework 3.5 or above
 
 ## Compile 编译
-* Before compiling, you need to put the nuget dependency package "DllExport" in the "package" directory of the project, do not refer to it, and then compile directly.
+* Before compiling, you need to put the nuget dependency package "DllExport" in the "package" directory of the project, don't reference to it, and then compile directly.
 * 编译之前，需要把Nuget依赖包“DllExport”放到项目内的“packages”目录中，不要引用它，最后直接编译即可
 
