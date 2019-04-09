@@ -1,1 +1,1 @@
-# TransparentWindow
+# TransparentWindow ![GitHub](https://img.shields.io/github/license/usaginya/NotepadPlusPlusPlugins.svg?style=flat-square) ![Nuget](https://img.shields.io/nuget/v/DllExport.svg?label=DllExport&style=flat-square) ![Nuget](https://img.shields.io/nuget/dt/DllExport.svg?color=6af&style=flat-square) ![Badge](https://img.shields.io/badge/.net%20framework-3.5-865FC5.svg)
