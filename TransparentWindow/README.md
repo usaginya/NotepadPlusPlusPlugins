@@ -1,24 +1,24 @@
 # TransparentWindow [![GitHub](https://img.shields.io/github/license/usaginya/NotepadPlusPlusPlugins.svg?style=flat-square)](https://github.com/usaginya/NotepadPlusPlusPlugins/blob/master/TransparentWindow/LICENSE) [![Nuget](https://img.shields.io/nuget/v/DllExport.svg?label=DllExport&style=flat-square)](https://github.com/3F/DllExport) [![Badge](https://img.shields.io/badge/.net%20framework-3.5-865FC5.svg?style=flat-square)](#)
 Notepad++ plugin
   
-Notepad++ ²å¼ş
+Notepad++ æ’ä»¶
 
-## Features ÌØĞÔ
+## Features ç‰¹æ€§
 * Notepad++ window set to transparent
   
-  ÉèÖÃ Notepad++ µÄ´°¿Ú±ä³ÉÍ¸Ã÷µÄ
+  è®¾ç½® Notepad++ çš„çª—å£å˜æˆé€æ˜çš„
 * You can set the transparency of the window
   
-  Äã¿ÉÒÔÉèÖÃ´°¿ÚµÄÍ¸Ã÷¶È
+  ä½ å¯ä»¥è®¾ç½®çª—å£çš„é€æ˜åº¦
 
-## Compatibility ¼æÈİĞÔ
+## Compatibility å…¼å®¹æ€§
 This plugin requires at least
-Õâ¸ö²å¼ş±ØĞëµÄ¶«Î÷
+è¿™ä¸ªæ’ä»¶å¿…é¡»çš„ä¸œè¥¿
 * Notepad++ 32-bit/64-bit
 * Windows
 * .NET Framework 3.5 or above
 
-## Compile ±àÒë
+## Compile ç¼–è¯‘
 * Before compiling, you need to put the nuget dependency package "DllExport" in the "package" directory of the project, do not refer to it, and then compile directly.
-* ±àÒëÖ®Ç°£¬ĞèÒª°ÑNugetÒÀÀµ°ü¡°DllExport¡±·Åµ½ÏîÄ¿ÄÚµÄ¡°packages¡±Ä¿Â¼ÖĞ£¬²»ÒªÒıÓÃËü£¬×îºóÖ±½Ó±àÒë¼´¿É
+* ç¼–è¯‘ä¹‹å‰ï¼Œéœ€è¦æŠŠNugetä¾èµ–åŒ…â€œDllExportâ€æ”¾åˆ°é¡¹ç›®å†…çš„â€œpackagesâ€ç›®å½•ä¸­ï¼Œä¸è¦å¼•ç”¨å®ƒï¼Œæœ€åç›´æ¥ç¼–è¯‘å³å¯
 
